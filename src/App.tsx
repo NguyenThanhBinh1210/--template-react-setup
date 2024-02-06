@@ -1,4 +1,4 @@
-import ScrollToTop from './components/scrollTop/scrollTop'
+import ScrollToTop from './components/scrolltop/scrollTop'
 import useRouteElements from './routes/useRouteElements'
 
 const App = () => {
